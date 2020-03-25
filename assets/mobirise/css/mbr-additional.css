@@ -1082,22 +1082,22 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.5;
 }
-.cid-rTN7Up28hW {
+.cid-rUhBFui5Ox {
   background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
 }
-.cid-rTN7Up28hW .container-fluid {
+.cid-rUhBFui5Ox .container-fluid {
   padding: 0 3rem;
 }
-.cid-rTN7Up28hW .video-block {
+.cid-rUhBFui5Ox .video-block {
   margin: auto;
 }
 @media (max-width: 767px) {
-  .cid-rTN7Up28hW .container-fluid {
+  .cid-rUhBFui5Ox .container-fluid {
     padding: 0 1rem;
   }
-  .cid-rTN7Up28hW .video-block {
+  .cid-rUhBFui5Ox .video-block {
     width: 100% !important;
   }
 }
